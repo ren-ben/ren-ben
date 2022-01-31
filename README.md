@@ -40,7 +40,7 @@
 </p>
 
 ## 📊 My Github Stats
-
+<p align="center">
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ben's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ren-ben&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Ben's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ren-ben&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -58,7 +58,6 @@
 
 ## Connect with me:
 <p align="left">
-
 <a href = "https://discord.com/users/410846349295353898"><img src="https://img.icons8.com/nolan/64/discord-logo.png"/></a>
 <a href = "https://twitter.com/42n17"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 <a href = "https://www.instagram.com/send_audi/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
