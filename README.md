@@ -19,7 +19,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/> </a>
     <a href="github.com" target="_blank"> <img src="https://img.icons8.com/nolan/64/github.png"/> </a> 
     <a href="https://discord.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/discord-logo.png"/> </a> 
