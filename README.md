@@ -1,4 +1,3 @@
-<h3 align="center"><br><br></h3>
 <p align="center">
 <a href="#"><img width="25%" height="auto" src="https://img.icons8.com/nolan/512/-fallout-vault-boy.png" height="175px"/></a>
 
@@ -35,7 +34,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/ren-ben/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ben's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ren-ben
 &theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
