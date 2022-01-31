@@ -2,7 +2,7 @@
 <a href="#"><img width="25%" height="auto" src="https://img.icons8.com/nolan/512/-fallout-vault-boy.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ben</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Austria.</h3>
+<h3 align="center">I'm a passionate Plugin Developer from Austria.</h3>
 
 
 ## 🙋‍♂️ About Me
