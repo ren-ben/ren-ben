@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on **[Minecraft Plugins](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 
-- 🌱 I’m currently learning **MC Plugins, Discord Bots and Music**
+- 🌱 I’m currently learning **Flutter, TypeScript & AI**
 
 - 👯 I’m looking to collaborate on **Nothing Currently**
 
-- 📫 How to reach me **ben_#4200**
-
-- ⚡ Fun fact **You will die**
+- 📫 How to reach me **ben_#0098**
 
 ## 🚀 Languages and Tools:
 
