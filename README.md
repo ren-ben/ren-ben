@@ -2,18 +2,18 @@
 <a href="#"><img width="25%" height="auto" src="https://img.icons8.com/nolan/512/-fallout-vault-boy.png" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">I'm a passionate Plugin Developer from Austria.</h3>
+<h3 align="center">I'm a passionate Developer from Austria.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Minecraft Plugins](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
+- 🔭 I’m currently working on my own Kernel
 
 - 🌱 I’m currently learning **Flutter, TypeScript & AI**
 
 - 👯 I’m looking to collaborate on **Nothing Currently**
 
-- 📫 How to reach me **ben_#0098**
+- 📫 How to reach me **renben_**
 
 ## 🚀 Languages and Tools:
 
