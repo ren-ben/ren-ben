@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my own Kernel
+- 🔭 I’m currently working on **my own Kernel**
 
 - 🌱 I’m currently learning **Flutter, TypeScript & AI**
 
